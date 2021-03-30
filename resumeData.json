@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name": "Henry Ebomah",
+    "occupation": "Software Engineer",
+    "description": "I love meeting people and collaborating to solve problems using software",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I have been involved in several web projects and spearheaded a few, working with diverse teams of UI/UX designers, web developers, digital marketers and app developers. We used asynchronous tools like trello, jira, confluence and user interview surveys.",
+    "contactmessage": "Get in touch with me if you are looking for a passionate problem solver!",
+    "email": "henryebomah@gmail.com",
+    "phone": "+19493931793",
+    "address": {
+      "street": "",
+      "city": "San Diego",
+      "state": "California",
+      "zip": "92084",
+      "website": "https://github.com/awesomething"
+    },
+    
+    "scheduleCall": "https://calendly.com/pairsession/30mininfo?back=1&month=2021-03",
+    "social": [
+      {
+        "name": "",
+        "url": "",
+        "className": ""
+      },
+      {
+        "name": "",
+        "url": "",
+        "className": ""
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/henryebomah",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/thehenryebomah",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/awesomething",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Chegg's Thinkful - USA",
+        "degree": "Certificate, Software Engineering",
+        "graduated": "February 2021",
+        "description": "Client-side developer| Server-side programmer| Advanced Frontend developer"
+      }
+    ],
+    "work": [
+      {
+        "company": "YouMergency",
+        "title": "Tech/Project Lead",
+        "years": "March - October 2020",
+        "description": "Developed a mobile app that helps people request an ambulance by the push of a button| We used Figma, JavaScript and Flutter with a team of designers and developers| Hosted the database of the client side on firebase servers."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "77%"
+      },
+      {
+        "name": "Flutter/Firebase",
+        "level": "65%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "HobbyDutch",
+        "category": "An online app that let talents engage in live events. The goal is to help reduce depression and loneliness. Teckstack used was Flutter/android",
+        "image": "hobby.jpg",
+        "url": "https://hobbydutch.com"
+      },
+      {
+        "title": "Remote Work",
+        "category": "A platform that lets you know about a company using videos before applying to jobs. The exponential growth of remote work in 2020 inspired this website.Teck stack -jQuery, JavaScript/Web Apps",
+        "image": "remotew.jpg",
+        "url": "https://awesomething.github.io/remotework"
+      },
+      {
+        "title": "Avengers Coding Quiz",
+        "category": "Coding quiz to attract fans of Marvel Comics who want to study JavaScript. Programming can be difficult if you are new to it, so this makes it fun. Tech stack - React",
+        "image": "avengers.jpg",
+        "url": "https://awesomething.github.io/avengerscodingquiz/"
+      },
+      {
+        "title": "Git Links to Projects",
+        "category": "The projects listed here and more projects can be found here.",
+        "image": "git.jpg",
+        "url": "https://github.com/awesomething"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Joining a part-time coding boot camp has been among the best decisions I've made in my life. However with Henry's handholding support during code challenges, I learnt more in one month than I did in 6 months of teaching myself how to program.",
+        "user": "Yusuf Alpe"
+      },
+      {
+        "text": "Henry was quick, courteous and very helpful. He helped me build my web app completely after solving the UI issue. I was worried it wouldn’t be done in time for my web launch party, but he finished the job with time to spare!",
+        "user": "Catrina Curtis"
+      }
+    ]
+  }
+}

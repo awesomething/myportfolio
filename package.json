@@ -1,5 +1,6 @@
 {
-  "name": "my-portfolio",
+  "name": "resume_starter_pack",
+  "homepage":"http://henryebomah.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
